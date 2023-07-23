@@ -1,6 +1,6 @@
 # AI_StackChan2_RT_README
 ”ｽﾀｯｸﾁｬﾝ アールティVer.β版”用 AIｽﾀｯｸﾁｬﾝ2の使い方です。<br>
-(現在M5Stack Basicのみ対応しています。)
+(M5Stack BasicとCore2のみ対応しています。)
 <br><br>
 AIｽﾀｯｸﾁｬﾝ2 RTの特徴<br>
 
